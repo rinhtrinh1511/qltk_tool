@@ -1,0 +1,48 @@
+C:\Users\trinh\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Quản Lý KEY.exe.config
+C:\Users\trinh\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Quản Lý KEY.exe.manifest
+C:\Users\trinh\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Quản Lý KEY.application
+C:\Users\trinh\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Quản Lý KEY.exe
+C:\Users\trinh\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Quản Lý KEY.pdb
+C:\Users\trinh\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\trinh\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Google.Protobuf.xml
+C:\Users\trinh\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\trinh\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\trinh\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\trinh\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\MySql.Data.xml
+C:\Users\trinh\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Buffers.xml
+C:\Users\trinh\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\trinh\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.IO.Pipelines.xml
+C:\Users\trinh\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Memory.xml
+C:\Users\trinh\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\trinh\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\trinh\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\trinh\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\QLKey.csproj.AssemblyReference.cache
+C:\Users\trinh\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\trinh\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\ToolQLTK.FormADD.resources
+C:\Users\trinh\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\ToolQLTK.Properties.Resources.resources
+C:\Users\trinh\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\QLKey.csproj.GenerateResource.cache
+C:\Users\trinh\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\QLKey.csproj.CoreCompileInputs.cache
+C:\Users\trinh\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Quản Lý KEY.TrustInfo.xml
+C:\Users\trinh\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Quản Lý KEY.exe.manifest
+C:\Users\trinh\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Quản Lý KEY.application
+C:\Users\trinh\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\QLKey.csproj.CopyComplete
+C:\Users\trinh\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Quản Lý KEY.exe
+C:\Users\trinh\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Quản Lý KEY.pdb
+C:\Users\trinh\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\trinh\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Costura.dll
+C:\Users\trinh\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Google.Protobuf.dll
+C:\Users\trinh\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\trinh\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\trinh\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\trinh\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\MySql.Data.dll
+C:\Users\trinh\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Siticone.Desktop.UI.dll
+C:\Users\trinh\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Buffers.dll
+C:\Users\trinh\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\trinh\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.IO.Pipelines.dll
+C:\Users\trinh\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Memory.dll
+C:\Users\trinh\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\trinh\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\trinh\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\trinh\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Costura.pdb
+C:\Users\trinh\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Costura.xml
+C:\Users\trinh\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Google.Protobuf.pdb

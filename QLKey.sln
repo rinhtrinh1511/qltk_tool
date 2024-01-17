@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QLKey", "WindowsFormsApp2\QLKey.csproj", "{B1932808-0615-4D91-96C9-CFC4016ED3B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1932808-0615-4D91-96C9-CFC4016ED3B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1932808-0615-4D91-96C9-CFC4016ED3B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1932808-0615-4D91-96C9-CFC4016ED3B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1932808-0615-4D91-96C9-CFC4016ED3B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0877833D-D088-4FC2-96AB-43C98B63BAE0}
+	EndGlobalSection
+EndGlobal
