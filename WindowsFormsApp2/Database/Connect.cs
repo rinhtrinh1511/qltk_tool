@@ -7,7 +7,7 @@ namespace WindowsFormsApp2.Database
     internal class Connect
     {
         private static MySqlConnection connection;
-        private static string server = "localhost";
+        private static string server = "103.183.120.142";
         private static string database = "accounts";
         private static string uid = "root";
         private static string password = "Rinhdz1@@";
